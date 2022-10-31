@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
 This is an Exploratory Data Analytics project in Python using multiple statistical plotting techniques.
-It is in the form of a Jupyter Notebook, however there is also a pdf version available.
+It was written in a Jupyter notebook, but I created an HTML version for easier viewing.
 
-The PDF version is easier to consume as there is no setup required, but loses the interactivity of the Jupyter Notebook.
+Please click on the HTML version unless you want to play around with the code.
