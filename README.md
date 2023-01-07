@@ -13,6 +13,10 @@ SQL DATABASE CREATION AND QUERYING
 
 This file is for showing the process of creating a database, filling it with data, and performing beginner to more advanced queries on said data. It also includes a database schema and explanations.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Please click on the files to view.
+Smoking Research Paper
+
+This is a research paper I had written which exmplores the relationship between a countries smoking population and it's national net income. I state my hypothesis, explain my data, data collection methods, and then state my conclusion based on the evidence gathered. This evidence is in the form of scatterplots and spreadsheets created from information from the WorldBank Database.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Please click on any of the files to view.
 
 Thanks again!
